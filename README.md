@@ -19,3 +19,6 @@ API Name - value of the instance of this component (note: value you select here 
 Load record on view or edit - enter in 'view' or 'edit' here to determine the type of redirect. 
 Object API Name - the API Name of the object you are navigating to. 
 Redirect Record ID - This value can be a hardcoded value or a variable with the Salesforce database Id of the record that you want your users to be redirected to. 
+
+
+![image](https://user-images.githubusercontent.com/58155079/147148169-3a089e77-155c-49b2-843b-bfc4c900f090.png)
